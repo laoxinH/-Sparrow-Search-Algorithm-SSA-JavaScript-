@@ -26,3 +26,5 @@ function fu(x) {
 迭代折线图
 
 ![](https://github.com/laoxinH/-Sparrow-Search-Algorithm-SSA-JavaScript-/blob/main/image.png?raw=true)
+
+经过测试比python实现效率高不少,可能nodejs解释器效率更高吧
