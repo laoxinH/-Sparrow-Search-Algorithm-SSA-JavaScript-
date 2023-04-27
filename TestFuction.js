@@ -1,5 +1,5 @@
-import SSA from "../modules/SSA.js";
-import {basicLine} from "../utils/chats.js";
+import SSA from "SSA.js";
+import {basicLine} from "chats.js";
 
 let dim = 30;
 let lb = new Array(dim).fill(-10);
